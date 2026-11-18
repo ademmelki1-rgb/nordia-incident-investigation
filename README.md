@@ -507,9 +507,9 @@ Observed results:
 
 | UTC date | Queries |
 |---|---:|
-| 2026-03-10 | 183 |
+| 2026-03-10 | 191 |
 | 2026-03-11 | 192 |
-| 2026-03-12 | 200 |
+| 2026-03-12 | 192 |
 | **Total** | **575** |
 
 The records show recurring TXT queries from both internal hosts across the observed period. This pattern may represent an internal telemetry or heartbeat mechanism, but its purpose cannot be confirmed from DNS logs alone.
